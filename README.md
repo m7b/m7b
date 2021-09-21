@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 ![m7b's GitHub stats](https://github-readme-stats.vercel.app/api?username=m7b&hide=stars)
@@ -12,6 +12,8 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
+### Hi there 👋
+
 **m7b/m7b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
