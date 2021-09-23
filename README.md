@@ -5,13 +5,13 @@
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m7b&layout=compact)
- 
+
+<!--
 ![Profile View Counter](https://komarev.com/ghpvc/?username=m7b)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<!--
 ### Hi there 👋
 
 **m7b/m7b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
